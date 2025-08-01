@@ -1,14 +1,14 @@
 ## Home Screen
-![Home Screen](home.png)
+<img src="home.png" width="400"/>
 
-## addSubject Screen
-![AddSubject Screen](addsubject.png)
+## AddSubject Screen
+<img src="addsubject.png" width="400"/>
 
-## sessions Screen
-![Sessions Screen](sessions.png)
+## Sessions Screen
+<img src="sessions.png" width="400"/>
 
 ## Subject Screen
-![Subject Screen](subject.png)
+<img src="subject.png" width="400"/>
 
-## task Screen
-![Task Screen](task.png)
+## Task Screen
+<img src="task.png" width="400"/>
